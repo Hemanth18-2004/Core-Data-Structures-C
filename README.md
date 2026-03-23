@@ -1,37 +1,57 @@
-# Core Data Structures in C
+# Core Data Structures & Algorithms in C
 
-This repository contains implementations of fundamental data structures and algorithms using C. It is designed to strengthen problem-solving skills and build a solid understanding of core programming concepts.
+A professional repository containing fundamental data structures and algorithmic implementations in C. This project focuses on efficient memory management, modular code design, and low-level system understanding.
 
-## Topics Covered
+---
 
-- Arrays  
-- Linked Lists  
-- Stacks  
-- Queues  
-- Trees  
-- Sorting Algorithms  
-- Searching Algorithms  
-- Recursion  
-- Pointers and Dynamic Memory  
+## 🛠 Technical Overview
 
-## Tech Stack
+This collection is structured to provide clear, documented implementations of essential computer science concepts:
 
-- Language: C  
-- Compiler: GCC or any standard C compiler  
+### Linear Data Structures
+* **Arrays:** Dynamic resizing and common manipulation algorithms.
+* **Linked Lists:** Singly, Doubly, and Circular implementations.
+* **Stacks & Queues:** Array-based and Linked List-based (LIFO/FIFO) structures.
 
-## How to Run
+### Non-Linear Data Structures
+* **Trees:** Binary Trees, Binary Search Trees (BST), and various traversal methods (In-order, Pre-order, Post-order).
+* **Graphs:** Basic adjacency list and matrix representations.
 
-1. Clone the repository:
-   git clone https://github.com/Hemanth18-2004/Core-Data-Structures-C.git
+### Algorithms & Logic
+* **Sorting:** Optimized implementations of Bubble, Selection, Insertion, Merge, and Quick Sort.
+* **Searching:** Linear and Binary search methodologies.
+* **Memory Management:** Demonstrations of `malloc`, `calloc`, `realloc`, and `free` to ensure zero memory leaks.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+* **Compiler:** GCC (recommended) or any C99/C11 compliant compiler.
+* **Build Tools:** `make` (optional, for automated builds).
+
+### Installation & Execution
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Hemanth18-2004/Core-Data-Structures-C.git](https://github.com/Hemanth18-2004/Core-Data-Structures-C.git)
+   cd Core-Data-Structures-C
+   ```
 
 2. Navigate into the folder:
+   ```bash
    cd Core-Data-Structures-C
+   ```
 
 3. Compile a program:
+   ```bash
    gcc filename.c -o output
+   ```
 
-4. Run the program:
+5. Run the program:
+   ```bash
    ./output
+   ```
 
 ## Purpose
 
